@@ -15,13 +15,16 @@ The project is built using **Python** with a clean separation between the recurs
 
 ### Tech Stack
 *   **Language**: Python 3
+
+
+
 *   **GUI Framework**: Kivy & KivyMD (Material Design)
 
 ### Demo
 
-<iframe src="https://drive.google.com/file/d/1qkBSl4NBlRT9qP2UptVsCOOg-7B494BR/view?usp=sharing" width="250" height="300" allow="autoplay" allowfullscreen></iframe>
+[Recursive depth 2](https://github.com/user-attachments/assets/c407055c-9b5b-4ac7-9398-5eb1aa2c4b1d)
 
-<iframe src="https://drive.google.com/file/d/108obkdXTfTCPedCBR5eU56xthGFkHjV7/view?usp=sharing" width="250" height="300" allow="autoplay" allowfullscreen></iframe>
+[Recursive depth 3](https://github.com/user-attachments/assets/29bf42b0-741b-48ed-ac93-a12523f8424f)
 
 ### Core Logic (`board/board.py`)
 The backend features a robust `Board` class capable of handling arbitrary depths (e.g., Depth 2 for standard Ultimate Tic-Tac-Toe, Depth 3+ for fractal expansions) [read more](board/README.md).
@@ -42,4 +45,7 @@ Execute the main script to launch the GUI window.
 
 ```bash
 python main.py
+
+
+
 ```
