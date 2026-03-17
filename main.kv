@@ -1,0 +1,20 @@
+#: import BoardWidget board.boardwidget.BoardWidget
+
+
+<RootWidget>:
+    ScreenManager:
+        id: screen_manager
+        Screen:
+            id: game_screen
+            name: "game_screen"
+            
+            BoardWidget:
+                size_hint: None, None
+                width: min(self.parent.width, self.parent.height)
+                height: min(self.parent.width, self.parent.height)
+                pos: game_screen.center_x - self.width/2, game_screen.center_y - self.height/2
+                
+                
+
+
+       
