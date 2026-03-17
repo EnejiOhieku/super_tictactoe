@@ -18,9 +18,8 @@ The project is built using **Python** with a clean separation between the recurs
 *   **GUI Framework**: Kivy & KivyMD (Material Design)
 
 ### Demo
-![Recursive Depth of 2](https://github.com/EnejiOhieku/super_tictactoe/blob/main/media/depth2.mp4)
-
-![Recursive Depth of 3](https://github.com/EnejiOhieku/super_tictactoe/blob/main/media/depth3.mp4)
+<iframe src="https://drive.google.com/file/d/1qkBSl4NBlRT9qP2UptVsCOOg-7B494BR/view?usp=sharing" width="250" height="300" allow="autoplay" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/108obkdXTfTCPedCBR5eU56xthGFkHjV7/view?usp=sharing" width="250" height="300" allow="autoplay" allowfullscreen></iframe>
 
 ### Core Logic (`board/board.py`)
 The backend features a robust `Board` class capable of handling arbitrary depths (e.g., Depth 2 for standard Ultimate Tic-Tac-Toe, Depth 3+ for fractal expansions) [read more](board/README.md).
