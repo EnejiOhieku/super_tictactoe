@@ -18,7 +18,9 @@ The project is built using **Python** with a clean separation between the recurs
 *   **GUI Framework**: Kivy & KivyMD (Material Design)
 
 ### Demo
+
 <iframe src="https://drive.google.com/file/d/1qkBSl4NBlRT9qP2UptVsCOOg-7B494BR/view?usp=sharing" width="250" height="300" allow="autoplay" allowfullscreen></iframe>
+
 <iframe src="https://drive.google.com/file/d/108obkdXTfTCPedCBR5eU56xthGFkHjV7/view?usp=sharing" width="250" height="300" allow="autoplay" allowfullscreen></iframe>
 
 ### Core Logic (`board/board.py`)
