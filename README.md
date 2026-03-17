@@ -1,7 +1,7 @@
 # Super Tic-Tac-Toe
 
 ## Project Origin
-Developed as a personal project in 200-level second-semester, this application was created with the specific goal of transforming the simple, often predictable game of Tic-Tac-Toe into a complex, multi-layered strategy experience.
+Developed as a personal project in 200-level second-semester, I built this application with the specific goal of transforming the simple, often predictable game of Tic-Tac-Toe into a complex, multi-layered strategy experience.
 
 ## The Concept
 Standard Tic-Tac-Toe often ends in a draw and lacks long-term strategic depth. This project implements "Super" (or Recursive) Tic-Tac-Toe to solve that:
@@ -18,9 +18,9 @@ The project is built using **Python** with a clean separation between the recurs
 *   **GUI Framework**: Kivy & KivyMD (Material Design)
 
 ### Demo
-![Recursive Depth of 2](media/depth2.mp4)
+![Recursive Depth of 2](https://github.com/EnejiOhieku/super_tictactoe/blob/main/media/depth2.mp4)
 
-![Recursive Depth of 3](media/depth3.mp4)
+![Recursive Depth of 3](https://github.com/EnejiOhieku/super_tictactoe/blob/main/media/depth3.mp4)
 
 ### Core Logic (`board/board.py`)
 The backend features a robust `Board` class capable of handling arbitrary depths (e.g., Depth 2 for standard Ultimate Tic-Tac-Toe, Depth 3+ for fractal expansions) [read more](board/README.md).
